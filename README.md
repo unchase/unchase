@@ -24,10 +24,6 @@
 </p>
 
 <p align="center">
-  <img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> 
-</p>
-
-<p align="center">
   <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher from Moscow, Russian Federation. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
   </samp>
 </p>
@@ -47,11 +43,9 @@
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" /> 
 </p>
 
-- Web Development
-- ASP.NET Core
-- WPF/WinForms
-- OpenAPI
-- OData
+|Technology|Progress|
+|:-:|:-:|
+|**Web&#160;Development**<br>**ASP.NET Core**<br>**WPF/WinForms**<br>**OpenAPI**<br>**OData**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
