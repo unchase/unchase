@@ -1,3 +1,7 @@
+<a target="_blank" rel="nofollow" href="https://github.com/unchase">
+  <img align="right" src="https://gpvc.arturio.dev/unchase?style=for-the-badge" alt="https://github.com/unchase" />
+<a/>
+  
 <h1 align="center"> Hi there! Привет! 안녕하세요! 👋 </h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://unchase.ru">
@@ -27,9 +31,8 @@
 <p align="center">
   <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher from Moscow, Russian Federation. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
   </samp>
-  <br> <br>
-  <a target="_blank" href="https://github.com/unchase"><img src="https://gpvc.arturio.dev/unchase" alt="https://github.com/unchase" /><a/>
-  <a target="_blank" href="https://github.com/unchase"><img src="https://badges.pufler.dev/commits/monthly/unchase" alt="https://github.com/unchase" /><a/>
+  <br><br>
+  <a target="_blank" href="https://github.com/unchase"><img src="https://badges.pufler.dev/commits/monthly/unchase?style=for-the-badge" alt="https://github.com/unchase" /><a/>
 </p>
 
 <p align="center">
