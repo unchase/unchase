@@ -66,9 +66,11 @@
 
 <h2 align="center">⚡ GitHub Stats</h2>
 
-<a href="https://github.com/YoshihiroIto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unchase&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/YoshihiroIto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unchase&layout=compact" />
-</a>
+<p align = "center">
+  <a href="https://github.com/unchase">
+    <img src = "https://github-readme-stats.vercel.app/api?username=unchase&show_icons=true&line_height=27">
+  </a>
+  <a href="https://github.com/unchase">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unchase&hide=css,html">
+  </a>
+</p>
