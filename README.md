@@ -44,22 +44,22 @@
 <p align="center" align='right'>
   <a target="_blank" href="https://unchase.ru">
     <img src="https://img.shields.io/badge/Website-unchase.ru-informational?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a target="_blank" href="https://dev.to/unchase">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a target="_blank" href="https://medium.com/@unchase">
     <img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a target="_blank" href="https://twitter.com/unchase12">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a target="_blank" href="https://habr.com/ru/users/unchase">
     <img src="https://img.shields.io/badge/Habr%20-%AA1DAAF2.svg?&style=for-the-badge&logo=Habr&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a target="_blank" href="mailto:spiritkola@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 
 [![Unchase Medium](https://github-readme-medium.vercel.app/?username=unchase)](https://medium.com/@unchase)
