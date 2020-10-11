@@ -32,11 +32,17 @@
   <a target="_blank" href="https://github.com/unchase"><img src="https://badges.pufler.dev/commits/monthly/unchase" alt="https://github.com/unchase" /><a/>
 </p>
 
-🔭 **I’m currently** working on improving Microsoft [OData Connected Service](https://github.com/OData/ODataConnectedService) and my own Visual Studio Connected Services:
-
-- ✔ [**Unchase OpenAPI (Swagger) Connected Service**](https://github.com/unchase/Unchase.OpenAPI.Connectedservice)
-- ✔ [**Unchase OData Connected Service**](https://github.com/unchase/Unchase.Odata.Connectedservice)
-- ✔ [**Unchase.Dynamics365.Connectedservice**](https://github.com/unchase/Unchase.Dynamics365.Connectedservice)
+<p align="center">
+  <b>🔭 I’m currently</b> working on improving Microsoft <a href="https://github.com/OData/ODataConnectedService">OData Connected Service</a> and my own Visual Studio Connected Services:
+</p>
+<p align="center">
+  <a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unchase&repo=Unchase.OpenAPI.Connectedservice" />
+  </a>
+  <a href="https://github.com/unchase/Unchase.Odata.Connectedservice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unchase&repo=Unchase.Odata.Connectedservice" />
+  </a>
+</p>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
 
