@@ -39,14 +39,6 @@
 - OpenAPI
 - OData
 
-<h2 align="center">💻 My Top GitHub Repositories</h2>
-
- - [awesome-russian-it](https://github.com/unchase/awesome-russian-it)  
- - [Unchase OpenAPI (Swagger) Connected Service](https://github.com/unchase/Unchase.OpenAPI.Connectedservice)
- - [Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions)
- - [Unchase OData Connected Service](https://github.com/unchase/Unchase.Odata.Connectedservice)
- - [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter)
-
 <h2 align="center">💬 Profiles</h2>
 
 <p align="center" align='right'>
