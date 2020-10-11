@@ -31,20 +31,6 @@
 <p align="center">
   <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher from Moscow, Russian Federation. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
   </samp>
-  <br><br>
-  <a target="_blank" href="https://github.com/unchase"><img src="https://badges.pufler.dev/commits/monthly/unchase?style=for-the-badge" alt="https://github.com/unchase" /><a/>
-</p>
-
-<p align="center">
-  <b>🔭 I’m currently</b> working on improving Microsoft <a href="https://github.com/OData/ODataConnectedService">OData Connected Service</a> and my own Visual Studio Connected Services:
-</p>
-<p align="center">
-  <a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unchase&repo=Unchase.OpenAPI.Connectedservice" />
-  </a>
-  <a href="https://github.com/unchase/Unchase.Odata.Connectedservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=unchase&repo=Unchase.Odata.Connectedservice" />
-  </a>
 </p>
 
 <h2 align="center">🛠 Technologies & Tools</h2>
