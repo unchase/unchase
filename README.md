@@ -1,7 +1,3 @@
-<a target="_blank" rel="nofollow" href="https://github.com/unchase">
-  <img align="left" src="https://gpvc.arturio.dev/unchase?style=for-the-badge" alt="https://github.com/unchase" />
-<a/>
-  
 <h1 align="center"> Hi there! Привет! 안녕하세요! 👋 </h1>
 <p align="center" align='right'>
   <a target="_blank" href="https://unchase.ru">
@@ -22,7 +18,9 @@
   <a target="_blank" href="mailto:spiritkola@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
-  
+  <a target="_blank" rel="nofollow" href="https://github.com/unchase">
+    <img align="right" src="https://gpvc.arturio.dev/unchase?style=for-the-badge" alt="https://github.com/unchase" />
+  <a/>
 </p>
 
 <p align="center">
