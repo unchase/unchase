@@ -1,16 +1,78 @@
-### Hi there 👋
+<h1 align="center"> Hi there! Привет! 안녕하세요! 👋 </h1>
 
-<!--
-**unchase/unchase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher from Moscow, Russian Federation. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
+  </samp>
+  <br> <br>
+  <a target="_blank" href="https://github.com/unchase"><img src="https://gpvc.arturio.dev/unchase" alt="https://github.com/unchase" /><a/>
+  <a target="_blank" href="https://github.com/unchase"><img src="https://badges.pufler.dev/commits/monthly/unchase" alt="https://github.com/unchase" /><a/>
+</p>
 
-Here are some ideas to get you started:
+🔭 **I’m currently** working on improving Microsoft [OData Connected Service](https://github.com/OData/ODataConnectedService) and my own Visual Studio Connected Services:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✔ [**Unchase OpenAPI (Swagger) Connected Service**](https://github.com/unchase/Unchase.OpenAPI.Connectedservice)
+- ✔ [**Unchase OData Connected Service**](https://github.com/unchase/Unchase.Odata.Connectedservice)
+- ✔ [**Unchase.Dynamics365.Connectedservice**](https://github.com/unchase/Unchase.Dynamics365.Connectedservice)
+
+<h2 align="center">🛠 Technologies & Tools</h2>
+
+<p align="center" align='right'>
+  <img alt="CSharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+  <img alt="NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=%2ENET&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black&textColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="VS" src="https://img.shields.io/badge/-VS-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
+  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" /> 
+</p>
+
+- Web Development
+- ASP.NET Core
+- WPF/WinForms
+- OpenAPI
+- OData
+
+<h2 align="center">💻 My Top GitHub Repositories</h2>
+
+ - [awesome-russian-it](https://github.com/unchase/awesome-russian-it)  
+ - [Unchase OpenAPI (Swagger) Connected Service](https://github.com/unchase/Unchase.OpenAPI.Connectedservice)
+ - [Unchase.Swashbuckle.AspNetCore.Extensions](https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions)
+ - [Unchase OData Connected Service](https://github.com/unchase/Unchase.Odata.Connectedservice)
+ - [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter)
+
+<h2 align="center">💬 Profiles</h2>
+
+<p align="center" align='right'>
+  <a target="_blank" href="https://unchase.ru">
+    <img src="https://img.shields.io/badge/Website-unchase.ru-informational?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://dev.to/unchase">
+    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://medium.com/@unchase">
+    <img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/unchase12">
+    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://habr.com/ru/users/unchase">
+    <img src="https://img.shields.io/badge/Habr%20-%AA1DAAF2.svg?&style=for-the-badge&logo=Habr&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:spiritkola@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+[![Unchase Medium](https://github-readme-medium.vercel.app/?username=unchase)](https://medium.com/@unchase)
+
+<h2 align="center">⚡ GitHub Stats</h2>
+
+<a href="https://github.com/YoshihiroIto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unchase&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/YoshihiroIto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unchase&layout=compact" />
+</a>
