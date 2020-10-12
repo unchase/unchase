@@ -41,8 +41,6 @@
   <img alt="GIT" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" /> 
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /> 
   <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg">
-  <img width="10%" src="https://www.odata.org/assets/OData-logo-e1393393068350.png">
 </p>
 
 |Technology|Progress|
