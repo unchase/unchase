@@ -57,6 +57,21 @@
 |:-:|:-:|
 |**Web&#160;Development**<br>**ASP.NET Core**<br>**WPF/WinForms**<br>**OpenAPI**<br>**OData**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
 
+<h2 align="center">💻 Open Source Contributions</h2>
+
+<p align="center">
+  <samp>I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.</samp>
+</p>
+
+- 💥 [fluentPOS](https://github.com/fluentpos/fluentpos): Open Source Point Of Sales / Inventory Management Solution built with ASP.NET Core 5.0 WebAPI & Angular 12 Material.
+- 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
+- 📜 [ODataConnectedService](https://github.com/OData/ODataConnectedService): A Visual Studio extension for generating client code for OData Services.
+- 🔨 [NSwag](https://github.com/RicoSuter/NSwag) and [NJsonSchema](https://github.com/RicoSuter/NJsonSchema): The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+- 📆 [DotNetRu App](https://github.com/DotNetRu/App): Official mobile app for DotNetRu.
+- 💡 [Statiq Framework](https://github.com/statiqdev/Statiq.Framework): A flexible and extensible static content generation framework for .NET.
+- 📘 [Discover .NET](https://github.com/daveaglick/discoverdotnet): A web site that helps you discover awesome .NET open source and community resources.
+- 🥇 and more other.
+
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align = "center">
