@@ -63,7 +63,6 @@
   <samp>I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.</samp>
 </p>
 
-- 💥 [fluentPOS](https://github.com/fluentpos/fluentpos): Open Source Point Of Sales / Inventory Management Solution built with ASP.NET Core 5.0 WebAPI & Angular 12 Material.
 - 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 - 📜 [ODataConnectedService](https://github.com/OData/ODataConnectedService): A Visual Studio extension for generating client code for OData Services. An alternative is my own Visual Studio extension - [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice).
 - 🔨 [NSwag](https://github.com/RicoSuter/NSwag) and [NJsonSchema](https://github.com/RicoSuter/NJsonSchema): The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. There is my own Visual Studio extension to generate OpenAPI (Swagger) web service reference (based on NSwag) - [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice).
