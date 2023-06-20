@@ -18,9 +18,6 @@
   <a target="_blank" href="mailto:spiritkola@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
-  <a target="_blank" rel="nofollow" href="https://github.com/unchase">
-    <img align="right" src="https://gpvc.arturio.dev/unchase?style=for-the-badge" alt="https://github.com/unchase" />
-  <a/>
 </p>
 
 <p align="center">
