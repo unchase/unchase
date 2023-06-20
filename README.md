@@ -55,7 +55,7 @@
 
 |Technology|Progress|
 |:-:|:-:|
-|**Web&#160;Development**<br>**ASP.NET Core**<br>**WPF/WinForms**<br>**OpenAPI**<br>**OData**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
+|**Web&#160;Development**<br>**ASP.NET Core**<br>**Blockchain**<br>**OpenAPI**|<img alt="dino" src="https://github.com/unchase/unchase/blob/master/dino.gif" /> |
 
 <h2 align="center">💻 Open Source Contributions</h2>
 
