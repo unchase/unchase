@@ -1,8 +1,5 @@
-<h1 align="center"> Hi there! Привет! 안녕하세요! 👋 </h1>
+<h1 align="center"> Hi there! 안녕하세요! 👋 </h1>
 <p align="center" align='right'>
-  <a target="_blank" href="https://unchase.ru">
-    <img src="https://img.shields.io/badge/Website-unchase.ru-informational?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a target="_blank" href="https://dev.to/unchase">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
@@ -63,7 +60,6 @@
 - 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 - 📜 [ODataConnectedService](https://github.com/OData/ODataConnectedService): A Visual Studio extension for generating client code for OData Services. An alternative is my own Visual Studio extension - [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice).
 - 🔨 [NSwag](https://github.com/RicoSuter/NSwag) and [NJsonSchema](https://github.com/RicoSuter/NJsonSchema): The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. There is my own Visual Studio extension to generate OpenAPI (Swagger) web service reference (based on NSwag) - [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice).
-- 📆 [DotNetRu App](https://github.com/DotNetRu/App): Official mobile app for DotNetRu.
 - 💡 [Statiq Framework](https://github.com/statiqdev/Statiq.Framework): A flexible and extensible static content generation framework for .NET.
 - 📘 [Discover .NET](https://github.com/daveaglick/discoverdotnet): A web site that helps you discover awesome .NET open source and community resources.
 - 🥇 and more other.
