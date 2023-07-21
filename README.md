@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher from Moscow, Russian Federation. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
+  <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
   </samp>
   <br/>
   <br/>
