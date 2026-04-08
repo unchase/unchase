@@ -20,9 +20,9 @@
 <p align="center">
   <samp>I'm <b>Nickolay Chebotov (unchase)</b> - a .NET Developer, Tech Enthusiast, Software Architect and Security Researcher. I mostly deal with ASP.NET Core and OpenAPI software development stack these days. Specialist Degree in Computer Science. I have 6+ years of development experience in architecting, designing & development of web and desktop applications across various domains using .NET and Web technologies.
   </samp>
+  <!--<br/>
   <br/>
-  <br/>
-  <a href="https://www.buymeacoffee.com/nikolaychebotov" target="_blank" style="margin-left: 10px;"><img src="https://img.buymeacoffee.com/button-api/?text=Support me!&amp;emoji=🙏&amp;slug=nikolaychebotov&amp;button_colour=ff8614&amp;font_colour=000000&amp;font_family=Bree&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>
+  <a href="https://www.buymeacoffee.com/nikolaychebotov" target="_blank" style="margin-left: 10px;"><img src="https://img.buymeacoffee.com/button-api/?text=Support me!&amp;emoji=🙏&amp;slug=nikolaychebotov&amp;button_colour=ff8614&amp;font_colour=000000&amp;font_family=Bree&amp;outline_colour=000000&amp;coffee_colour=FFDD00"></a>-->
 </p>
 
 <h2 align="center">🛠 Technologies & Languages & Tools</h2>
@@ -64,7 +64,7 @@
 - 📘 [Discover .NET](https://github.com/daveaglick/discoverdotnet): A web site that helps you discover awesome .NET open source and community resources.
 - 🥇 and more other.
 
-<h2 align="center">⚡ GitHub Stats</h2>
+<!--<h2 align="center">⚡ GitHub Stats</h2>
 
 <p align = "center">
   <a href="https://github.com/unchase">
@@ -73,7 +73,7 @@
   <a href="https://github.com/unchase">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=unchase&hide=css,html">
   </a>
-</p>
+</p>-->
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=29679226)
